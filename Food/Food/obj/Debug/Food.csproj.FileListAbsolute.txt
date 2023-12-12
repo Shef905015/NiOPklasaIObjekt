@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Food\Food\bin\Debug\Food.exe.config
+C:\Users\ucenik\source\repos\Food\Food\bin\Debug\Food.exe
+C:\Users\ucenik\source\repos\Food\Food\bin\Debug\Food.pdb
+C:\Users\ucenik\source\repos\Food\Food\obj\Debug\Food.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Food\Food\obj\Debug\Food.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Food\Food\obj\Debug\Food.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Food\Food\obj\Debug\Food.exe
+C:\Users\ucenik\source\repos\Food\Food\obj\Debug\Food.pdb
